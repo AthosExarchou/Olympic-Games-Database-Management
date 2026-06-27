@@ -1,6 +1,6 @@
 # Olympic Games Database Management
 
-A structured relational database for managing detailed information about Olympic Games, including athletes, teams, events, results, and awards. Developed as a group project for the **Databases** course at [Harokopio University of Athens – Dept. of Informatics and Telematics](https://www.dit.hua.gr).
+A structured relational database for managing detailed information about Olympic Games, including athletes, teams, events, results, and awards. Developed as a group project for the **Databases** course at [Harokopio University of Athens – Dept. of Informatics and Telematics](https://dit.hua.gr).
 The design focuses on data integrity, clear relationships, and efficient querying for analytics or historical record keeping.
 
 ## Table of Contents
